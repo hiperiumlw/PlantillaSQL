@@ -1,0 +1,2 @@
+# PlantillaSQL
+Practica SQL
